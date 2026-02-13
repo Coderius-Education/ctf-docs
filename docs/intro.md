@@ -28,34 +28,34 @@ De challenges zijn verdeeld in drie categorieën:
 Begin met de makkelijke challenges om de basis te leren, en werk daarna door naar moeilijkere:
 
 ### ⭐ Makkelijk - Begin hier
-1. [Hacking - Standaard](/docs/challenges/hacking/standaard) - Leer over wachtwoorden
-2. [Hacking - Eentje erbij](/docs/challenges/hacking/eentje-erbij) - URL-manipulatie
-3. [Hacking - Robots](/docs/challenges/hacking/robots) - Ontdek robots.txt
-4. [Code - Plakken](/docs/challenges/code/plakken) - Voer code uit
-5. [Code - Broncode](/docs/challenges/code/broncode) - Bekijk de paginabron
-6. [Forensics - Voor altijd](/docs/challenges/forensics/voor-altijd) - Wayback Machine
-7. [Forensics - Plaats delict](/docs/challenges/forensics/plaats-delict) - Verborgen data in afbeeldingen
-8. [Forensics - België](/docs/challenges/forensics/belgie) - IP-adres geolocatie
+1. [Hacking - Standaard](/docs/hacking/standaard) - Leer over wachtwoorden
+2. [Hacking - Eentje erbij](/docs/hacking/eentje-erbij) - URL-manipulatie
+3. [Hacking - Robots](/docs/hacking/robots) - Ontdek robots.txt
+4. [Code - Plakken](/docs/code/plakken) - Voer code uit
+5. [Code - Broncode](/docs/code/broncode) - Bekijk de paginabron
+6. [Forensics - Voor altijd](/docs/forensics/voor-altijd) - Wayback Machine
+7. [Forensics - Plaats delict](/docs/forensics/plaats-delict) - Verborgen data in afbeeldingen
+8. [Forensics - België](/docs/forensics/belgie) - IP-adres geolocatie
 
 ### ⭐⭐ Gemiddeld - Nu wordt het interessanter
-9. [Hacking - Koekjes 1](/docs/challenges/hacking/koekjes-1) - Cookies bekijken
-10. [Hacking - Headers](/docs/challenges/hacking/headers) - HTTP-headers
-11. [Hacking - Tekstbestandje](/docs/challenges/hacking/tekstbestandje) - Verborgen bestanden
-12. [Hacking - Virus](/docs/challenges/hacking/virus) - VirusTotal
-13. [Forensics - Logfile](/docs/challenges/forensics/logfile) - HTTP-statuscodes
-14. [Forensics - Niet gevonden](/docs/challenges/forensics/niet-gevonden) - Bestandsextensies
-15. [Code - Obfuscated](/docs/challenges/code/obfuscated) - Geobfusceerde code
-16. [Code - Base64](/docs/challenges/code/base64) - Base64 decodering
+9. [Hacking - Koekjes 1](/docs/hacking/koekjes-1) - Cookies bekijken
+10. [Hacking - Headers](/docs/hacking/headers) - HTTP-headers
+11. [Hacking - Tekstbestandje](/docs/hacking/tekstbestandje) - Verborgen bestanden
+12. [Hacking - Virus](/docs/hacking/virus) - VirusTotal
+13. [Forensics - Logfile](/docs/forensics/logfile) - HTTP-statuscodes
+14. [Forensics - Niet gevonden](/docs/forensics/niet-gevonden) - Bestandsextensies
+15. [Code - Obfuscated](/docs/code/obfuscated) - Geobfusceerde code
+16. [Code - Base64](/docs/code/base64) - Base64 decodering
 
 ### ⭐⭐⭐ Moeilijk - Voor de doorzetters
-17. [Hacking - Koekjes 2](/docs/challenges/hacking/koekjes-2) - Cookies wijzigen
-18. [Hacking - Hallo](/docs/challenges/hacking/hallo) - Input validatie & XSS
-19. [Code - Rotate](/docs/challenges/code/rotate) - Caesar cipher
-20. [Code - Encrypted](/docs/challenges/code/encrypted) - Versleuteling kraken
-21. [Forensics - Geluidsfragment](/docs/challenges/forensics/geluidsfragment) - Audio-analyse
+17. [Hacking - Koekjes 2](/docs/hacking/koekjes-2) - Cookies wijzigen
+18. [Hacking - Hallo](/docs/hacking/hallo) - Input validatie & XSS
+19. [Code - Rotate](/docs/code/rotate) - Caesar cipher
+20. [Code - Encrypted](/docs/code/encrypted) - Versleuteling kraken
+21. [Forensics - Geluidsfragment](/docs/forensics/geluidsfragment) - Audio-analyse
 
 ### ⭐⭐⭐⭐ Expert - Nog nooit opgelost
-22. [Hacking - Dubbel](/docs/challenges/hacking/dubbel) - De ultieme uitdaging
+22. [Hacking - Dubbel](/docs/hacking/dubbel) - De ultieme uitdaging
 
 ## Tips
 
