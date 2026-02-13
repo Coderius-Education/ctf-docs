@@ -13,7 +13,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Forensics',
-    link: '/docs/forensics',
+    link: '/docs/category/forensics',
     description: (
       <>
         Onderzoek digitale sporen: van de Wayback Machine en IP-adressen tot
@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Hacking',
-    link: '/docs/hacking',
+    link: '/docs/category/hacking',
     description: (
       <>
         Leer over wachtwoorden, cookies, HTTP-headers, robots.txt en meer.
@@ -33,7 +33,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Code',
-    link: '/docs/code',
+    link: '/docs/category/code',
     description: (
       <>
         Crack versleutelde berichten, decodeer Base64, ontcijfer geobfusceerde
