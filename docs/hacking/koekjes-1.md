@@ -15,23 +15,32 @@ title: "Hacking - Koekjes 1"
 ## Beschrijving
 Websites slaan informatie op in je browser via cookies. Kun je de cookies van deze website bekijken?
 
-## Hints
-
-:::tip Hint 1
-Open de **Developer Tools** in je browser met **F12** of **Ctrl+Shift+I**.
-:::
-
-:::tip Hint 2
-Ga naar het tabblad **Application** (Chrome) of **Storage** (Firefox). Daar vind je onder **Cookies** alle cookies die de website heeft opgeslagen.
-
-Lees meer: [Chrome DevTools - Cookies](https://developer.chrome.com/docs/devtools/application/cookies?hl=nl)
-:::
-
-:::tip Hint 3
-Bekijk de **naam** en **waarde** van alle cookies. De flag kan als waarde van een cookie zijn opgeslagen.
-:::
-
 ## Wat je leert
 - Wat cookies zijn en hoe ze werken
 - Hoe je cookies kunt bekijken in de Developer Tools
 - Welke informatie websites opslaan in je browser
+
+## Hints
+
+<details>
+<summary>Hint 1</summary>
+
+Open de **Developer Tools** in je browser met **F12** of **Ctrl+Shift+I**. Verken de verschillende tabbladen.
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Ga naar het tabblad **Application** (Chrome) of **Storage** (Firefox). Daar vind je informatie die de website in je browser heeft opgeslagen.
+
+Lees meer: [Chrome DevTools - Cookies](https://developer.chrome.com/docs/devtools/application/cookies?hl=nl)
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Bekijk de **naam** en **waarde** van alle opgeslagen items goed. De flag kan als waarde zijn opgeslagen.
+
+</details>

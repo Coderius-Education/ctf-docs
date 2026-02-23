@@ -34,27 +34,27 @@ Begin met de makkelijke challenges om de basis te leren, en werk daarna door naa
 4. [Code - Plakken](/docs/code/plakken) - Voer code uit
 5. [Code - Broncode](/docs/code/broncode) - Bekijk de paginabron
 6. [Forensics - Voor altijd](/docs/forensics/voor-altijd) - Wayback Machine
-7. [Forensics - Plaats delict](/docs/forensics/plaats-delict) - Verborgen data in afbeeldingen
-8. [Forensics - België](/docs/forensics/belgie) - IP-adres geolocatie
+7. [Forensics - België](/docs/forensics/belgie) - IP-adres geolocatie
+8. [Forensics - Geluidsfragment](/docs/forensics/geluidsfragment) - Audio-analyse
 
 ### ⭐⭐ Gemiddeld - Nu wordt het interessanter
-9. [Hacking - Koekjes 1](/docs/hacking/koekjes-1) - Cookies bekijken
-10. [Hacking - Headers](/docs/hacking/headers) - HTTP-headers
-11. [Hacking - Tekstbestandje](/docs/hacking/tekstbestandje) - Verborgen bestanden
-12. [Hacking - Virus](/docs/hacking/virus) - VirusTotal
-13. [Forensics - Logfile](/docs/forensics/logfile) - HTTP-statuscodes
-14. [Forensics - Niet gevonden](/docs/forensics/niet-gevonden) - Bestandsextensies
-15. [Code - Obfuscated](/docs/code/obfuscated) - Geobfusceerde code
-16. [Code - Base64](/docs/code/base64) - Base64 decodering
+9. [Hacking - Virus](/docs/hacking/virus) - Malware-analyse
+10. [Hacking - Tekstbestandje](/docs/hacking/tekstbestandje) - Verborgen bestanden
+11. [Hacking - Koekjes 1](/docs/hacking/koekjes-1) - Cookies bekijken
+12. [Hacking - Headers](/docs/hacking/headers) - HTTP-headers
+13. [Code - Obfuscated](/docs/code/obfuscated) - Geobfusceerde code
+14. [Code - Base64](/docs/code/base64) - Base64 decodering
 
 ### ⭐⭐⭐ Moeilijk - Voor de doorzetters
-17. [Hacking - Koekjes 2](/docs/hacking/koekjes-2) - Cookies wijzigen
-18. [Hacking - Hallo](/docs/hacking/hallo) - Input validatie & XSS
-19. [Code - Rotate](/docs/code/rotate) - Caesar cipher
-20. [Code - Encrypted](/docs/code/encrypted) - Versleuteling kraken
-21. [Forensics - Geluidsfragment](/docs/forensics/geluidsfragment) - Audio-analyse
+15. [Hacking - Koekjes 2](/docs/hacking/koekjes-2) - Cookies wijzigen
+16. [Hacking - Hallo](/docs/hacking/hallo) - Input validatie & XSS
+17. [Code - Rotate](/docs/code/rotate) - Caesar cipher
+18. [Code - Encrypted](/docs/code/encrypted) - Versleuteling kraken
+19. [Forensics - Niet gevonden](/docs/forensics/niet-gevonden) - Bestandstypes
+20. [Forensics - Plaats delict](/docs/forensics/plaats-delict) - Metadata & verborgen data
 
 ### ⭐⭐⭐⭐ Expert - Nog nooit opgelost
+21. [Forensics - Logfile](/docs/forensics/logfile) - HTTP-statuscodes
 22. [Hacking - Dubbel](/docs/hacking/dubbel) - De ultieme uitdaging
 
 ## Tips

@@ -15,21 +15,30 @@ title: "Hacking - Standaard"
 ## Beschrijving
 Wat zijn de meest populaire wachtwoorden? Veel mensen kiezen nog steeds zwakke, voorspelbare wachtwoorden.
 
-## Hints
-
-:::tip Hint 1
-De challenge verwijst naar een link over **populaire wachtwoorden**. Bekijk deze link goed.
-:::
-
-:::tip Hint 2
-Denk aan de meest gebruikte wachtwoorden ter wereld, zoals "123456", "password", "qwerty", etc. Probeer de meest voor de hand liggende wachtwoorden.
-:::
-
-:::tip Hint 3
-Er bestaan lijsten met de meest gebruikte wachtwoorden (zoals de "rockyou" lijst). Probeer de meest populaire wachtwoorden uit deze lijsten.
-:::
-
 ## Wat je leert
 - Waarom sterke wachtwoorden belangrijk zijn
 - Welke wachtwoorden het meest gebruikt worden
 - Hoe brute-force aanvallen werken
+
+## Hints
+
+<details>
+<summary>Hint 1</summary>
+
+Denk na over welke wachtwoorden het meest voorspelbaar zijn. Wat zou iemand als eerste proberen?
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Er bestaan lijsten met veelgebruikte wachtwoorden. Zoek op internet naar "meest gebruikte wachtwoorden".
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Begin met de allerbekendste wachtwoorden. Denk simpel — de meeste mensen zijn niet creatief met hun wachtwoorden.
+
+</details>
