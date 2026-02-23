@@ -15,21 +15,30 @@ title: "Hacking - Headers"
 ## Beschrijving
 Elke keer dat je browser een pagina opvraagt, worden er HTTP-headers meegestuurd. Deze bevatten extra informatie over het verzoek en het antwoord.
 
-## Hints
-
-:::tip Hint 1
-Open de **Developer Tools** (F12) en ga naar het tabblad **Network**.
-:::
-
-:::tip Hint 2
-Laad de pagina opnieuw (F5) terwijl het Network-tabblad open is. Klik op het eerste verzoek in de lijst en bekijk de **Response Headers**.
-:::
-
-:::tip Hint 3
-De flag kan verborgen zijn in een van de **response headers**. Bekijk alle headers goed - er kan een aangepaste header tussen staan met de flag.
-:::
-
 ## Wat je leert
 - Wat HTTP-headers zijn
 - Hoe je HTTP-headers kunt bekijken in de Developer Tools
 - Welke standaard en aangepaste headers er bestaan
+
+## Hints
+
+<details>
+<summary>Hint 1</summary>
+
+Bij elk verzoek dat je browser doet, wordt er achter de schermen meer informatie verstuurd dan je ziet. Open de **Developer Tools** (F12) en zoek naar waar je netwerkverkeer kunt bekijken.
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Laad de pagina opnieuw terwijl het **Network**-tabblad open is. Klik op een verzoek en bekijk de details — zowel wat er is verzonden als wat er is teruggestuurd.
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Bekijk de **response headers** goed. Naast standaard headers kan de server ook aangepaste headers meesturen met extra informatie.
+
+</details>

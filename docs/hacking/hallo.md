@@ -9,24 +9,36 @@ title: "Hacking - Hallo"
 
 **Moeilijkheid:** ⭐⭐⭐ Moeilijk
 
+## Onderwerp
+**Cross-Site Scripting (XSS)**
+
 ## Beschrijving
 Wat mag wel en wat mag niet? Soms accepteert een website invoer die het eigenlijk niet zou moeten accepteren.
-
-## Hints
-
-:::tip Hint 1
-Deze challenge gaat waarschijnlijk over **input validatie**. Probeer verschillende soorten invoer in te voeren.
-:::
-
-:::tip Hint 2
-Denk aan speciale tekens, HTML-tags, of JavaScript-code. Wat gebeurt er als je `<script>alert('hallo')</script>` invoert?
-:::
-
-:::tip Hint 3
-Dit heet **Cross-Site Scripting (XSS)** - een kwetsbaarheid waarbij je eigen code kunt injecteren in een webpagina. Probeer HTML of JavaScript in te voeren in invoervelden.
-:::
 
 ## Wat je leert
 - Wat Cross-Site Scripting (XSS) is
 - Waarom input-validatie cruciaal is
 - Hoe aanvallers onveilige invoervelden kunnen misbruiken
+
+## Hints
+
+<details>
+<summary>Hint 1</summary>
+
+Deze challenge gaat over **input validatie**. Probeer onverwachte invoer — wat accepteert het invoerveld allemaal?
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Wat gebeurt er als je speciale tekens of HTML-tags invoert? Probeer of de website jouw invoer filtert of gewoon overneemt.
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Als je HTML-code kunt invoeren die op de pagina verschijnt, kan de website kwetsbaar zijn voor **XSS**. Probeer JavaScript-code te injecteren via het invoerveld.
+
+</details>

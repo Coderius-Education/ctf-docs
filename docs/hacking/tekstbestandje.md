@@ -9,24 +9,36 @@ title: "Hacking - Tekstbestandje"
 
 **Moeilijkheid:** ⭐⭐ Gemiddeld
 
+## Onderwerp
+**Verborgen bestanden**
+
 ## Beschrijving
-Net als `robots.txt` zijn er meer standaard tekstbestanden die op webservers staan. Wat zou een logische naam zijn voor een bestand met wachtwoorden?
-
-## Hints
-
-:::tip Hint 1
-Je moet achter de URL een bestandsnaam plaatsen gevolgd door **`.txt`**. Denk na: welke bestandsnaam zou iemand kiezen als ze wachtwoorden in een tekstbestand opslaan?
-:::
-
-:::tip Hint 2
-Probeer voor de hand liggende namen zoals `passwords.txt`, `wachtwoorden.txt`, `password.txt`, etc.
-:::
-
-:::tip Hint 3
-Mensen die niet opletten slaan gevoelige informatie soms op in simpele tekstbestanden met voorspelbare namen. Probeer Engelse en Nederlandse varianten.
-:::
+Net als robots.txt zijn er meer standaard tekstbestanden die op webservers staan. Wat zou een logische naam zijn voor een bestand met wachtwoorden?
 
 ## Wat je leert
 - Dat gevoelige bestanden soms publiek toegankelijk zijn op webservers
 - Het belang van goede bestandsbeveiliging
 - Waarom je nooit wachtwoorden in platte tekstbestanden moet opslaan
+
+## Hints
+
+<details>
+<summary>Hint 1</summary>
+
+Je moet achter de URL een bestandsnaam plaatsen. Denk na: als iemand wachtwoorden opslaat in een simpel tekstbestand, welke naam zou dat bestand dan hebben?
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Probeer veelvoorkomende bestandsnamen achter de URL te zetten. Denk in zowel het Engels als Nederlands, met **.txt** als extensie.
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Gevoelige bestanden staan soms gewoon publiek op webservers met voorspelbare namen. Probeer meerdere varianten — wees creatief maar denk simpel.
+
+</details>

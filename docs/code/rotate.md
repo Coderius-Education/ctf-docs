@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 title: "Code - Rotate"
 ---
 
@@ -9,24 +9,36 @@ title: "Code - Rotate"
 
 **Moeilijkheid:** ⭐⭐⭐ Moeilijk
 
+## Onderwerp
+**Caesar cipher**
+
 ## Beschrijving
 De tekst is geroteerd/verschoven. Kun je de originele tekst terugvinden?
-
-## Hints
-
-:::tip Hint 1
-"Rotate" verwijst waarschijnlijk naar een **Caesar cipher** of **ROT13** - een techniek waarbij elke letter in het alfabet een vast aantal posities wordt verschoven.
-:::
-
-:::tip Hint 2
-**ROT13** is de meest voorkomende variant: elke letter wordt 13 posities verschoven. Bijvoorbeeld: A wordt N, B wordt O, etc. Probeer een online ROT13 decoder.
-:::
-
-:::tip Hint 3
-Als ROT13 niet werkt, probeer dan andere rotaties (ROT1 t/m ROT25). Online tools zoals [rot13.com](https://rot13.com/) of [CyberChef](https://gchq.github.io/CyberChef/) kunnen helpen.
-:::
 
 ## Wat je leert
 - Wat een Caesar cipher is
 - Hoe ROT13 en andere rotatie-versleutelingen werken
 - Hoe je versleutelde tekst kunt decoderen
+
+## Hints
+
+<details>
+<summary>Hint 1</summary>
+
+De naam van de challenge is een aanwijzing. Wat gebeurt er als je letters in het alfabet "draait" of verschuift?
+
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+Dit type versleuteling heet een **Caesar cipher**. Elke letter wordt een vast aantal posities verschoven in het alfabet. De meest voorkomende variant verschuift 13 posities.
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Probeer verschillende rotaties (1 t/m 25). Online tools zoals [CyberChef](https://gchq.github.io/CyberChef/) kunnen alle rotaties tegelijk tonen.
+
+</details>

@@ -15,21 +15,30 @@ title: "Hacking - Robots"
 ## Beschrijving
 Websites gebruiken een speciaal bestand om zoekmachines te vertellen welke pagina's ze wel en niet mogen indexeren. Dit bestand is publiek toegankelijk.
 
+## Wat je leert
+- Wat het robots.txt bestand is en waarvoor het dient
+- Hoe zoekmachines websites indexeren
+- Dat robots.txt geen beveiligingsmechanisme is
+
 ## Hints
 
-:::tip Hint 1
-Voeg **`/robots.txt`** toe achter de basis-URL van de challenge-website.
-:::
+<details>
+<summary>Hint 1</summary>
 
-:::tip Hint 2
-Het `robots.txt` bestand bevat regels voor webcrawlers. Regels met `Disallow:` geven aan welke paden niet geindexeerd mogen worden - maar dat betekent niet dat je er niet naartoe kunt navigeren!
-:::
+Webservers hebben standaardbestanden die informatie bevatten over de website. Welk bestand vertelt zoekmachines waar ze wel en niet mogen kijken?
 
-:::tip Hint 3
-Bekijk de `Disallow`-regels in het `robots.txt` bestand. Navigeer vervolgens naar de paden die daar vermeld staan om de flag te vinden.
-:::
+</details>
 
-## Wat je leert
-- Wat het `robots.txt` bestand is en waarvoor het dient
-- Hoe zoekmachines websites indexeren
-- Dat `robots.txt` geen beveiligingsmechanisme is
+<details>
+<summary>Hint 2</summary>
+
+Zoek op internet naar hoe zoekmachines weten welke pagina's ze niet mogen indexeren. Probeer het bijbehorende bestand te openen door de naam achter de basis-URL te plaatsen.
+
+</details>
+
+<details>
+<summary>Hint 3</summary>
+
+Bekijk de regels in het bestand goed. Disallow-regels verwijzen naar paden die "verborgen" moeten blijven — maar je kunt er gewoon naartoe navigeren in je browser.
+
+</details>
